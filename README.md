@@ -1,4 +1,4 @@
-- 👋😊 Hi, I’m karim benhassen Software Engineer From Tunisia
+- 👋😊 Hi, I’m karim benhassen a Software Engineer From Tunisia
 - 👀 I’m interested in java back-end engineering 
 - 📫 How to reach me benhassenkarim199@gmail.com
 
